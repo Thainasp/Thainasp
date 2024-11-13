@@ -17,7 +17,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<h2>★ Redes Sociais</h2>
+<h2>★ Contate-me</h2>
 <div>
   <br> <a href="https://www.linkedin.com/in/thaina-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
