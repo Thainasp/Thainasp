@@ -4,8 +4,8 @@
 - 🌱 Estou aprendendendo C e JavaScript
 - 😄 Pronomes: ela/dela
 <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Thainasp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"><a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-    stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thainasp&theme=vue-dark&hide_border=true"><a href="https://stackoverflow.com/users/story/5679285"><img src="https://github-readme-    stackoverflow.vercel.app/?userID=5679285&theme=dark" height="250"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Thainasp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"><a href="https://stackoverflow.com/users/story/5679285">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thainasp&theme=vue-dark&hide_border=true"><a href="https://stackoverflow.com/users/story/5679285">
 </div>
 
 ##
