@@ -1,6 +1,6 @@
 ## <h1>Olá Mundo
 <h2>Eu sou a Thaina de Souza 👋</h2>
-<h2>Estudando C e JavaScript 📖</h2>
+<h2>Estudando C, JavaScript, Banco de Dados e Python 📖</h2>
 <h4>ela/dela</h4>
  
 
