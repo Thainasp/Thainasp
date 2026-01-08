@@ -1,4 +1,4 @@
 ## ***Thaina de Souza Pereira*** 👋
 
-* ``*Desenvolvedora Front-End* 🖥️``
-* ``*Atualmente me aprofundando em React e React Native.* 📔``
+* ``_Desenvolvedora Front-End_ 🖥️``
+* ``_Atualmente me aprofundando em React e React Native._ 📔``
